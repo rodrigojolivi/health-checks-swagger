@@ -9,6 +9,6 @@ Health checks in ASP.NET Core 3.1 and Swagger
 - Swagger 5.0
 
 # How to use
-Go to https://localhost:{port}/swagger to view the webapi
-Go to https://localhost:{port}/status-dashboard to view the health checks interface
+- Go to https://localhost:{port}/swagger to view the webapi
+- Go to https://localhost:{port}/status-dashboard to view the health checks interface
 
